@@ -1,3 +1,5 @@
 THIS IS MY 1st FILE FOR Branch Demo.
 
+GO to the new branch and Change/add the textfile in line no 3.
 GO to the main branch and Change/add the textfile in line no 3.
+
